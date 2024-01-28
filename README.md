@@ -9,7 +9,7 @@ This is a fictional project to analyze the database of company Maven Fuzzy Facto
 
 ### Mid Project:
 
-**The situation:** Maven Fuzzy Factory has been live for 8 months approx., and CEO is due to present company performance metrics to the board next week.  
+**The situation:** Maven Fuzzy Factory has been live for 8 months approx., and CEO is due to present company performance metrics to the board.  
 I am tasked with preparing relevant metrics to show the company's promision growth.  
 
 **Objetive:** SQL is used to extract and analyze website traffic and performance data from the Maven Fuzzy Factory database to quantify the company's growth, 
