@@ -1,3 +1,4 @@
+# Advanced SQL for Ecommerce and Web Analytics.
 This is fictional project to analyze and then improve business of the company Maven Fuzzy Factory an eCommerce start-up, working directly with the CEO, Marketing Director and Website Manager. using advanced SQL skills.
 
 Mid-Course Project:
